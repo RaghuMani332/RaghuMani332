@@ -13,3 +13,6 @@ Spring Boot, Spring MVC, Spring Core
 Hibernate, JDBC
 Java Script, HTML, CSS, React JS
 MySQL
+
+c#
+ADO.net
